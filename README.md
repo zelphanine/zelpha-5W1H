@@ -1,2 +1,5 @@
 ## Hi there
-[Discord](https://discordapp.com/users/zelpha#2231)
+Contact
+* tharunkothari@yahoo.com
+* zelpha5w1h@protonmail.com [less active]
+* Discord ID: zelpha#2231
