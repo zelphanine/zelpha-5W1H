@@ -1,2 +1,2 @@
 ## Hi there
-[Discord](https://discordapp.com/users/cipherZeta#2231)
+[Discord](https://discordapp.com/users/zelpha#2231)
