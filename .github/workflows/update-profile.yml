@@ -27,8 +27,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "<YOUR_GITHUB_EMAIL>"
-          git config --local user.name "<YOUR_GITHUB_USERNAME>"
+          git config --local user.email "tharunkothari@yahoo.com"
+          git config --local user.name "zelpha-5W1H"
           git add README.md
           git commit -m "Update number of days"
           git push
