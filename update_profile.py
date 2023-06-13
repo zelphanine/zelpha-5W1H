@@ -2,7 +2,7 @@ from datetime import date
 from jinja2 import Environment, FileSystemLoader
 
 # Calculate the number of days since a specific start date
-start_date = date(2023, 6, 10)  # Replace with your desired start date
+start_date = date(2023, 6, 7)  # Replace with your desired start date
 current_date = date.today()
 num_days = (current_date - start_date).days
 
