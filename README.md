@@ -1,5 +1,6 @@
 ## Hi there
+
 Contact
-* zelpha5w1h@protonmail.com [less active]
+* Email tharunkothari@yahoo.com
 * Discord ID: zelpha#2231
-* Winning against anxiety for {{days}} days
+* Winning against anxiety and fear since {{ days }} days.
