@@ -8,7 +8,7 @@ num_days = (current_date - start_date).days
 
 # Load the markdown template
 env = Environment(loader=FileSystemLoader('.'))
-template = env.get_template('profile_template.md')
+template = env.get_template('README.md')
 
 # Render the template with the updated value
 rendered_content = template.render(days=num_days)
